@@ -1,2 +1,2 @@
 service:
-  value: "From config server"
+  value: "From config server - default profile"
