@@ -1,0 +1,2 @@
+service:
+  value: "From config server - default profile - spring-cloud-client-microservice"
